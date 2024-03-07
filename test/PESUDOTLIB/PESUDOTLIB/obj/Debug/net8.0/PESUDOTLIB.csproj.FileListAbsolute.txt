@@ -1,0 +1,15 @@
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\PESUDOTLIB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\PESUDOTLIB.AssemblyInfoInputs.cache
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\PESUDOTLIB.AssemblyInfo.cs
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\PESUDOTLIB.csproj.CoreCompileInputs.cache
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\bin\Debug\net8.0\PESUDOTLIB.deps.json
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\bin\Debug\net8.0\PESUDOTLIB.dll
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\bin\Debug\net8.0\PESUDOTLIB.pdb
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\bin\Debug\net8.0\UnityEngine.dll
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\bin\Debug\net8.0\UnityEngine.xml
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\PESUDOTLIB.csproj.AssemblyReference.cache
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\PESUDOTLIB.csproj.CopyComplete
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\PESUDOTLIB.dll
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\refint\PESUDOTLIB.dll
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\PESUDOTLIB.pdb
+D:\Unity Projects\test\PESUDOTLIB\PESUDOTLIB\obj\Debug\net8.0\ref\PESUDOTLIB.dll
